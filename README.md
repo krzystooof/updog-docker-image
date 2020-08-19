@@ -1,9 +1,6 @@
 # Updog Docker Image
 [Updog by sc0tfree](https://github.com/sc0tfree/updog) docker image
 
-**AMD images are based on `slim-stretch` version of `Python`, while ARM ones uses `stretch` version due to lack of `gcc`** 
-
-
 ## What is Updog?
 Updog is a replacement for Python's `SimpleHTTPServer`. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth.
 
